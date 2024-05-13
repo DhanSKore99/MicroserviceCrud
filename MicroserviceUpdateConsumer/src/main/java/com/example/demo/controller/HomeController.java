@@ -13,7 +13,7 @@ import com.example.demo.model.Student;
 @RestController
 public class HomeController {
 
-	System.out.println("This is Controller class..");
+	//System.out.println("This is Controller class..");
 	@Autowired 
 	RestTemplate rt;
 	
