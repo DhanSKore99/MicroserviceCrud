@@ -44,4 +44,6 @@ public class HomeController {
 		
 	}
 
+	System.out.println("Hello.. I am Controller..");
+
 }
